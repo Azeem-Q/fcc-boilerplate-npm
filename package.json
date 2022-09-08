@@ -1,7 +1,12 @@
 {
     "name": "fcc-learn-npm-package-json",
     "author": "Azeem",
-	"description": "A freecodecamp learning repo for backend development and APIs",
+    "description": "A freecodecamp learning repo for backend development and APIs",
+    "keywords": [
+        "freecodecamp",
+        "backend",
+        "APIs"
+    ],
     "dependencies": {
         "express": "^4.14.0"
     },
